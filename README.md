@@ -1,11 +1,11 @@
-### Hi, I'm David G. Carbajal Palacios 👋
+### Hello, I am David G. Carbajal Palacios 👋
 
 
 Welcome to my GitHub profile! 
 
-* 🔭 I am a recent Computer Science graduate looking forward to apply my skills in a career in my field of Computer Science; this includes the domains of software engineering/development, databases, or ML/AI, including roles such as AI Developer, QA Analyst, or Software Engineer.
-* 🌱 I’m currently working on my learning in Coursera to improve and further refine my full-stack development skills independently
-    * Certificate to be completed: **IBM Full-Stack JavaScript Developer Professional Certificate** (Expected Completion: May 2026).
+* 🔭 I am a Computer Science graduate looking forward and prepared to apply my skills in a career in Computer Science; this includes the domains of software engineering, databases, data engineering, or ML/AI.
+* 🌱 I’m currently working on my learning in Coursera to improve and further refine my independent full-stack development skills.
+    * Certificate to be completed: **IBM Full-Stack JavaScript Developer Professional Certificate** (Expected Completion: June 2026).
 
 
 
